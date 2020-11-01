@@ -13,6 +13,12 @@
         npm install -g create-react-app
         npm install -g eslint
 
+ ## 2020-11-1
+　* axios
+    https://qiita.com/ksh-fthr/items/2daaaf3a15c4c11956e9
+    
+        npm install axios --save
+
 ## 使い方
 ・npm run debugstartで実行
 ・npm run buildでビルド
