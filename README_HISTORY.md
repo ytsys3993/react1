@@ -13,9 +13,12 @@
         npm install -g create-react-app
         npm install -g eslint
 
-## 2020-11-01
-　* 完成
-        
+## 使い方
+・npm run debugstartで実行
+・npm run buildでビルド
+・npm run testでテスト
+・npm run mockserver
+  →モックサーバー起動      
 
 ## 残
 ・ESLINTが動くように
